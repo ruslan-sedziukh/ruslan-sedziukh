@@ -27,6 +27,6 @@ I believe that good software should be simple, maintainable, predictable, and ea
 
 I value engineering cultures that encourage ownership, critical thinking, open technical discussions, and continuous learning.
 
-I use AI-assisted development to improve productivity while maintaining ownership of technical decisions and the quality of the software I ship.
+I prefer to design and implement solutions myself to ensure a deeper understanding of the code and take full ownership of it. I use AI to reduce time spent on repetitive changes, investigate codebases, validate assumptions, review my code, and build prototypes when needed.
 
 Programming is not just my profession - it's something I genuinely enjoy.
